@@ -1,0 +1,15 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "repl": true,
+        "jupyter-notebook": true,
+        "workbench.input.interactive": true
+    },
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.alwaysShowEditorActions": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "editor.autoIndent",
+        "editor.codeActionsOnSave",
+        "workbench.commandPalette.history"
+    ]
+}
