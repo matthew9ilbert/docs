@@ -11,5 +11,21 @@
         "editor.autoIndent",
         "editor.codeActionsOnSave",
         "workbench.commandPalette.history"
-    ]
+    ],
+    "aws.suppressPrompts": {
+        "apprunnerNotifyPricing": false,
+        "apprunnerNotifyPause": false,
+        "ecsRunCommand": true,
+        "ecsRunCommandEnable": true,
+        "ecsRunCommandDisable": true,
+        "regionAddAutomatically": true,
+        "yamlExtPrompt": true,
+        "fileViewerEdit": true,
+        "createCredentialsProfile": true,
+        "samcliConfirmDevStack": false,
+        "remoteConnected": true,
+        "codeCatalystConnectionExpired": false,
+        "minIdeVersion": false,
+        "ssoCacheError": false
+    }
 }
